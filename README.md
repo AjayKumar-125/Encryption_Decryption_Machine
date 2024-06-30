@@ -1,0 +1,1 @@
+Dive into the world of cybersecurity with my latest project: an Encryption/Decryption Machine built using Flask, HTML, and Bootstrap. Effortlessly encode and decode secret messages to safeguard your data. Explore cryptography and fortify your data security today!
